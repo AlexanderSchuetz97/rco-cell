@@ -1,0 +1,12 @@
+[package]
+name = "rco-cell"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+authors = ["Alexander Schütz <aschuetz@protonmail.com>"]
+keywords = ["rc", "refcell", "cell", "option"]
+categories = ["memory-management"]
+description = "Wrapper for Rc<RefCell<Option<T>>> and its weak variant. Includes various utilties for common operations usually performed on such a datastructure."
+readme = "README.md"
+
+[dependencies]
