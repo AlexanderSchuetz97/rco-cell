@@ -8,5 +8,6 @@ keywords = ["rc", "refcell", "cell", "option"]
 categories = ["memory-management"]
 description = "Wrapper for Rc<RefCell<Option<T>>> and its weak variant. Includes various utilties for common operations usually performed on such a datastructure."
 readme = "README.md"
+homepage = "https://github.com/AlexanderSchuetz97/rco-cell"
 
 [dependencies]
